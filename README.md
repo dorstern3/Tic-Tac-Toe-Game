@@ -1,2 +1,2 @@
-# Tic Tac Toe Game
-Java
+# Tic Tac Toe Game in Java
+
